@@ -1,8 +1,8 @@
 Title: Sign langage Recognition and Transalation
 
 Group Members:
-Pooja Sharma
-Nainisha Sharma
+Pooja Sharma,
+Nainisha Sharma,
 Disha Bendale
 
 Implementation:
